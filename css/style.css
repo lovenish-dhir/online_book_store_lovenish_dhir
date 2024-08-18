@@ -1,0 +1,38 @@
+.btn-primary {
+    background-color: #380150;
+}
+.btn-primary:hover {
+    background-color: #380150;
+}
+.btn-warning {
+    background-color: #ecd2f7 !important;
+    border: 1px solid #ecd2f7;
+}
+.btn-danger {
+    background-color: #380150;
+    border: 1px solid #380150;
+}
+.nd {
+	text-decoration: none;
+}
+.color-dark-violet {
+    color: #380150;
+}
+.purple-bg {
+    background-color: #ecd2f7 !important;
+}
+.pdf-list {
+	width: 80%;
+}
+.card {
+	width: 18rem;
+}
+.category .list-group {
+	width: 200px;
+}
+.bg-light {
+    background-color: #ecd2f7 !important;
+}
+.dark-purple-bg {
+    background-color: #380150;
+}
